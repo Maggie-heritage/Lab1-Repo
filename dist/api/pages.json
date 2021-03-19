@@ -1,0 +1,18 @@
+{
+    "home": {
+        "id": 1,
+        "menu": "Home",
+        "content": "<span id='cont'>Welcom to the library page. There are eleven public libraries in Gatineau.</span><div><img id='lib' src='../img/libr.jpg'/></div><ul id='sector'><li>Gatineau</li><li>Buckingham </li><li>Masson-Angers</li><li>Hull</li><li>Aylmer</li></ul>`"
+    },
+    "Libraries": {
+        "id": 2,
+        "menu": "libraries",
+        "content": "<span id='listLib'>List of public libraries.</span>",
+        "component": "libraries"
+    },
+    "about": {
+        "id": 3,
+        "menu": "More Info",
+        "content": "<span id='other'>Please visit library website for the following information:</span><ul id='othe'><li>Hours</li><li>Services</li><li>Catalog</li><li>Activities</li></ul>"
+    }
+}

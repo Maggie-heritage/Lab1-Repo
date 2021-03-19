@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Bibliothèque Aurélien-Doucet",
+        "address": "207, boulevard du Mont-Bleu Gatineau ",
+        "src": "BAuD.png"
+    },
+    {
+        "id": 2,
+        "name": "Bibliothèque Bernard-Lonergan ",
+        "address": "181, rue Joseph Gatineau",
+        "src": "BBL.png"
+    },
+    {
+        "id": 3,
+        "name": "Bibliothèque de la Maison-du-Citoyen",
+        "address": "25, rue Laurier Gatineau ",
+        "src": "BMduC.png"
+    },
+    {
+        "id": 4,
+        "name": "Bibliothèque de Riviera ",
+        "address": "12, rue de Picardie Gatineau",
+        "src": "BRiviera.png"
+    },
+    {
+        "id": 5,
+        "name": "Bibliothèque Docteur-Jean-Lorrain ",
+        "address": "20, boulevard Lorrain  Gatineau",
+        "src": "BDJL.png"
+    },
+    {
+        "id": 6,
+        "name": "Bibliothèque Donalda-Charron",
+        "address": "255, rue de Bruxelles Gatineau",
+        "src": "BDC.png"
+    },
+    {
+        "id": 7,
+        "name": "Bibliothèque Guy-Sanche ",
+        "address": "855, boulevard de la Gappe Gatineau",
+        "src": "BGS.png"
+    },
+    {
+        "id": 8,
+        "name": "Bibliothèque Jean-Marie-Caron ",
+        "address": "430, rue du Progrès Gatineau",
+        "src": "BJMC.png"
+    },
+    {
+        "id": 9,
+        "name": "Bibliothèque Lucien-Lalonde",
+        "address": "225, rue Berri Gatineau ",
+        "src": "BLL.png"
+    },
+    {
+        "id": 10,
+        "name": "Bibliothèque Lucy-Faris",
+        "address": "115, rue Principale Gatineau ",
+        "src": "BLF.png"
+    },
+    {
+        "id": 11,
+        "name": "Bibliothèque Manise-Morin",
+        "address": "36, chemin de Montréal Est Gatineau ",
+        "src": "BMM.png"
+    }
+]

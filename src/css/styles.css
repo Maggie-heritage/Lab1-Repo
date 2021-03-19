@@ -1,0 +1,101 @@
+h1 {
+  color: royalblue;
+  background-color: rgb(233, 229, 229);
+  text-align: center;
+  font-size: 36px;
+}
+
+.library>.thumbnail {
+  width: 20%;
+  border: 3px solid rgb(139, 137, 137);
+  
+
+}
+
+#library-listing {
+  display: grid;   
+}
+
+.active-page {
+  font-weight: bolder;
+  color:rgb(31, 30, 30);
+}
+
+#address
+{
+  font-size: 20px;;
+  color:sienna;
+}
+
+#lname
+{
+  color:royalblue;
+  font-weight: bolder;
+  font-size: 24px;
+  background-color:  rgb(247, 244, 244);
+ 
+}
+
+#listLib
+{
+  color:rgb(87, 86, 86);
+  font-size: 27px;
+  background-color: rgb(216, 205, 176);
+}
+
+#sector
+{
+  margin:10px 10px 10px 70px;
+}
+
+#cont
+{
+  color:royalblue;
+  font-weight: bolder;
+  font-size: 27px;
+}
+
+#lib
+{
+  width: 15%;
+  float:left;
+  margin:10px 70px 10px 10px;
+  background-image:linear-gradient( rgb(52, 118, 252), rgb(248, 167, 16), lightgray);
+}
+
+#other
+{
+  color:sienna;
+  font-size: 27px;
+}
+#othe
+{
+  margin:0 0 0 35px;
+}
+
+
+
+.site-link {
+  text-decoration: underline;
+  color: blueviolet;
+  cursor: pointer;
+}
+
+.site-link:hover {
+  color: cyan;
+}
+
+nav
+{
+  background-color: rgb(167, 182, 211);
+  color:purple;
+  font-size: 24px;
+  text-align: right;
+}
+
+#content
+{
+  color:rgb(59, 58, 58);
+  font-size: 26px;
+  margin: 0 0 10px 0;
+}

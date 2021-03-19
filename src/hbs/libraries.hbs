@@ -1,0 +1,9 @@
+<div id="libraries-listing">
+    {{#each this}}
+    <div class="library" data-sid="library-{{id}}">
+        <p id="lname">{{name}}</p>
+        <p id="address">{{address}}</p>
+        <img class="thumbnail" src="img/{{src}}" />
+    </div>
+    {{/each}}
+</div>
